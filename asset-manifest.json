@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27312960.css",
+    "main.js": "/static/js/main.aee40f41.js",
+    "static/media/blog1.jpg": "/static/media/blog1.88b76b39e5b8bc07f272.jpg",
+    "static/media/blog4.jpg": "/static/media/blog4.60da1fcb47ff8baeaf54.jpg",
+    "static/media/blog3.jpg": "/static/media/blog3.faf0c291931b113130d0.jpg",
+    "static/media/loading.gif": "/static/media/loading.2ceddf4b12dbcf4c4b78.gif",
+    "static/media/MindBlog_Black.png": "/static/media/MindBlog_Black.204e90d9d08dd66f564e.png",
+    "static/media/blog2.jpg": "/static/media/blog2.bd7550db5a278835f905.jpg",
+    "static/media/avatar15.jpg": "/static/media/avatar15.09ccdf72196347fe29cc.jpg",
+    "index.html": "/index.html",
+    "main.27312960.css.map": "/static/css/main.27312960.css.map",
+    "main.aee40f41.js.map": "/static/js/main.aee40f41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27312960.css",
+    "static/js/main.aee40f41.js"
+  ]
+}
